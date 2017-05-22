@@ -1,0 +1,15 @@
+Package: myancheffpackage
+Type: Package
+Title: Creates a simple visualization of NYC SAT data.
+Version: 0.1.0
+Authors@R: person("Matthew", "Yancheff", email = "yanchefm@reed.edu",
+  role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package has a single function that generates a scatter plot
+  relating the average SAT reading scores and average SAT math scores for high 
+  schools in New York City.
+Imports: 
+    ggplot2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
