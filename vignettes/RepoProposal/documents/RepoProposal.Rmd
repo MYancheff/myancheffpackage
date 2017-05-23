@@ -1,0 +1,45 @@
+---
+title: "Repository Structure Proposal"
+author: "Matthew Yancheff"
+date: "May 23, 2017"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Proposed Structure
+
+```{r}
+#/raw-data
+#/data
+#/sandbox
+#/code
+#/documents
+#/misc
+#README.md
+#makefile
+```
+
+
+
+![WorkFlow](visualizations/data-science.png)
+
+
+## Raw Data
+
+
+## Data
+
+## Sandbox
+
+## Code
+
+## Documents
+
+## Miscellaneous
+
+## Other Files
+
+## Issues
